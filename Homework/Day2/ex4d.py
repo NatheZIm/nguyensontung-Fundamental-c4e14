@@ -1,4 +1,4 @@
-d
+#d
 n = int(input("Number of row : "))
 n2 = int(input("Number of column : "))
 for i in range(n):
